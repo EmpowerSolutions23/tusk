@@ -1,0 +1,5 @@
+how to place an order for a pizza
+
+1.go to pizzahut.lk
+2.select the pizza type
+3.confirm the order
